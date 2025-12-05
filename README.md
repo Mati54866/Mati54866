@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **matiullah35285@gmail.com**
 
-- 📄 Know about my experiences [📄 Resume: https://your-link-here.com](📄 Resume: https://your-link-here.com)
+- 📄 Know about my experiences [📄 www.linkedin.com/in/matiullahkhan090]
 
 - ⚡ Fun fact **I fix my bugs the same way I find them — accidentally**
 
