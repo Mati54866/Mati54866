@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A passionate full stack developer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=matiullah.matiullah" alt="Profile views" />
+  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=matiullah.matiullah" alt="Profile views" /> -->
   <a href="https://twitter.com/mati119" target="_blank">
     <img src="https://img.shields.io/twitter/follow/mati119?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
