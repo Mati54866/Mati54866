@@ -3,9 +3,9 @@
 
 <p align="center">
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=matiullah.matiullah" alt="Profile views" /> -->
-  <a href="https://twitter.com/mati119" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/mati119?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
+<a href="https://github.com/Mati54866?tab=followers" target="_blank">
+  <img src="https://img.shields.io/github/followers/Mati54866?logo=github&style=for-the-badge" alt="GitHub Follow" />
+</a>
 </p>
 
 ---
