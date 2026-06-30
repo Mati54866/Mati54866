@@ -3,8 +3,8 @@
 
 <p align="center">
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=matiullah.matiullah" alt="Profile views" /> -->
-<a href="https://github.com/Mati54866?tab=followers" target="_blank">
-  <img src="https://img.shields.io/github/followers/Mati54866?logo=github&style=for-the-badge" alt="GitHub Follow" />
+<a href="https://github.com/Mati54866" target="_blank">
+  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
 </a>
 </p>
 
