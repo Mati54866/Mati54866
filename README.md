@@ -1,90 +1,141 @@
-<h1 align="center">👋 Hi, I'm Matiullah</h1>
-<h3 align="center">🚀 A passionate full stack developer from Pakistan</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Matiullah+👋;Full+Stack+Software+Engineer;React+%26+Node.js+Developer;AWS+Enthusiast" alt="Typing Animation" />
+</h1>
 
 <p align="center">
-  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=matiullah.matiullah" alt="Profile views" /> -->
-<a href="https://github.com/Mati54866" target="_blank">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-</a>
+  <i>Building production-ready web applications that solve real problems.</i>
+</p>
+
+<p align="center">
+  <a href="https://mati-portfolio-v2.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/matiullahkhan090">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:matiaptech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📖 About Me
+## 👨‍💻 About Me
 
-> *"I turn coffee into code and bugs into features ☕🐞"*
+Full Stack Software Engineer with hands-on experience building modern, scalable web applications.
 
-- 🌱 **Currently learning:** Advanced Node.js & System Design  
-- 💬 **Ask me about:** JavaScript, React, PHP, Web Development  
-- 📫 **Email:** matiullah35285@gmail.com  
-- 📄 **Resume:** [LinkedIn Profile](https://www.linkedin.com/in/matiullahkhan090)  
-- ⚡ **Fun fact:** I fix my bugs the same way I find them — accidentally 😄  
+**🔭 Current Focus:** Production-ready SaaS applications with React, Node.js, and MongoDB.
+
+**🌱 Learning:** Advanced AWS services, System Design, and Microservices.
+
+**💼 Open to:** Full Stack Developer roles where I can contribute and grow.
+
+**📌 Recent:** Completed internship at **iCreativez Technologies**.
+
+---
+
+## ⚡ Recent Activity
+
+- 🚀 Deployed **TravelMate** — a full-stack travel platform on Vercel + Railway
+- 🔧 Built enterprise admin dashboard with React, Refine, and TypeScript
+- 📦 Integrated AWS S3 for image storage and cloud deployment
+- 🔒 Implemented JWT authentication and role-based access control
+- 📱 Designed responsive UI components with Tailwind CSS
+
+---
+
+## 💼 Professional Experience
+
+### iCreativez Technologies — Software Engineering Intern
+*2025 - 2026*
+
+- Built and deployed full-stack web applications using React and Node.js
+- Collaborated with cross-functional teams on real-world client projects
+- Implemented REST APIs, JWT authentication, and database integrations
+- Gained hands-on experience with Git, CI/CD, and cloud deployment
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Frontend Development**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<table align="center">
+<tr>
+<td>
 
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+**Frontend**  
+React · JavaScript · TypeScript · HTML5 · CSS3  
+Tailwind · Bootstrap
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+</td>
+<td>
 
-### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Backend**  
+Node.js · Express · PHP · ASP.NET · C#
 
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+</td>
+</tr>
+<tr>
+<td>
+
+**Databases**  
+MongoDB · PostgreSQL · MySQL
+
+</td>
+<td>
+
+**Cloud & DevOps**  
+AWS (S3, EC2, Lambda) · Railway · Vercel  
+Netlify · Git · CI/CD
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Mobile**  
+React Native · Flutter
+
+</td>
+<td>
+
+**Design**  
+Figma · UI/UX · Responsive Design
+
+</td>
+</tr>
+</table>
 
 ---
 
-
-
-
----
-
-## 🤝 Connect With Me
+## 📈 GitHub Statistics
 
 <p align="center">
-  <a href="https://twitter.com/mati119" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/matiullahkhan090" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:matiullah35285@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/matiullah" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mati54866&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mati54866&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mati54866&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://mati-portfolio-v2.netlify.app">🌐 Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/matiullahkhan090">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:matiaptech@gmail.com">📧 Email</a>
 </p>
 
 ---
 
 <p align="center">
-  <i>✨ "First, solve the problem. Then, write the code." – John Johnson ✨</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <i>"Writing clean, scalable, and enjoyable software."</i>
 </p>
