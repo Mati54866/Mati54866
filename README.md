@@ -109,14 +109,15 @@ Figma · UI/UX · Responsive Design
 
 ## 📈 GitHub Statistics
 
-<!-- <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mati54866&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mati54866&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-</p> -->
+## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mati54866&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mati54866&theme=react-dark&bg_color=20232a&hide_border=true)
+
+
+
+
 
 ---
 
