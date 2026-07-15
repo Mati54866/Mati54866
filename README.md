@@ -107,9 +107,6 @@ Figma · UI/UX · Responsive Design
 
 ---
 
-## 📈 GitHub Statistics
-
-## GitHub Statistics
 
 ## 📊 GitHub Activity
 
