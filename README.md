@@ -107,14 +107,26 @@ Figma · UI/UX · Responsive Design
 
 ---
 
+## 📊 GitHub Stats
 
-## 📊 GitHub Activity
+<table align="center">
+<tr>
+<td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mati54866&theme=radical" alt="GitHub Profile Details" />
+</td>
+</tr>
+</table>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mati54866&theme=react-dark&bg_color=20232a&hide_border=true)
-
-
-
-
+<table align="center">
+<tr>
+<td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mati54866&theme=radical" alt="Repos Per Language" />
+</td>
+<td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mati54866&theme=radical" alt="Most Commit Language" />
+</td>
+</tr>
+</table>
 
 ---
 
